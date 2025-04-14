@@ -1,0 +1,10 @@
+xtick.labelsize: 6
+ytick.labelsize: 6
+axes.linewidth: 0.5
+font.family : serif
+text.usetex : True
+#text.latex.preamble: \usepackage{amssymb}\n\usepackage{amsmath}\n% Load Libertine fonts for text and math\n\usepackage[tt=false]{libertine}   % Libertine for text (not for monospaced)\n\usepackage[libertine]{newtxmath}  % Libertine for math\n% Load Inconsolata for monospaced text\n\usepackage{inconsolata}\n% Redefine \mathtt to use Inconsolata in math mode\n\renewcommand{\mathtt}[1]{\text{\texttt{#1}}}
+figure.dpi: 300
+#pgf.texsystem: pdflatex
+#pgf.rcfonts: False
+#ps.usedistiller: xpdf
